@@ -1,7 +1,7 @@
 Utilitys_Basic_001
 ==================
 
-A repository of tricks and tips to "Tricking out you tools and software"
+A repository of tricks and tips to "Tricking out your HardWare and SoftWare"
 
 Looking for all the great tips and Tricks You and Your Computer have to offer
 
